@@ -1,0 +1,17 @@
+//read file
+export PATH=$PATH:/e/tmpE/audioSpriteTest/ffmpeg/bin
+cd c:/tjcode/IW-PyramidionBingo-mainline_4445/src/audio
+ch0="MusicLoop.wav MusicLoopTermWin.wav MusicLoopTermLose.wav UiBetDown.wav UiBetUp.wav UiBetMax.wav"
+audiosprite -o ch0 -f howler -e mp3,ogg,m4a -g 0.05 -v 9 -b 48 -r 44100 $ch0
+ch1="GameStart.wav UiBetDown.wav UiBetUp.wav"
+audiosprite -o ch1 -f howler -e mp3,ogg,m4a -g 0.05 -v 9 -b 48 -r 44100 $ch1
+ch2="NumberRevealFast_1.wav NumberRevealFast_2.wav NumberRevealFast_3.wav NumberRevealSlow_1.wav NumberRevealSlow_2.wav NumberRevealSlow_3.wav"
+audiosprite -o ch2 -f howler -e mp3,ogg,m4a -g 0.05 -v 9 -b 48 -r 44100 $ch2
+ch3="UiBuy.wav UiDraw.wav UiShuffle.wav UiPrizesContinue.wav UiPlayAgain.wav UiMoveToMoney.wav UiInfoClose.wav UiInfoOpen.wav UiSpeed1.wav UiSpeed2.wav UiSpeed3.wav UiSpeed4.wav UiPaytableClose.wav UiPaytableOpen.wav"
+audiosprite -o ch3 -f howler -e mp3,ogg,m4a -g 0.05 -v 9 -b 48 -r 44100 $ch3
+ch4="LineWin.wav"
+audiosprite -o ch4 -f howler -e mp3,ogg,m4a -g 0.05 -v 9 -b 48 -r 44100 $ch4
+ch5="LineWin.wav"
+audiosprite -o ch5 -f howler -e mp3,ogg,m4a -g 0.05 -v 9 -b 48 -r 44100 $ch5
+ch6="LineWin.wav"
+audiosprite -o ch6 -f howler -e mp3,ogg,m4a -g 0.05 -v 9 -b 48 -r 44100 $ch6

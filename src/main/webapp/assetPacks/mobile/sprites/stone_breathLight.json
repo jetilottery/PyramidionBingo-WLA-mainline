@@ -1,0 +1,20 @@
+{"frames": {
+
+"stone_breathLight.png":
+{
+	"frame": {"x":1,"y":1,"w":70,"h":70},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":70,"h":70},
+	"sourceSize": {"w":70,"h":70}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "stone_breathLight.png",
+	"format": "RGBA8888",
+	"size": {"w":72,"h":72},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:66a7a78f55271d2915f5142add8ab4b9:81cbb4d025f6b71bf1be923c9b383392:5e141b6c6793660057aeed8250d08021$"
+}
+}

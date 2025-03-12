@@ -1,0 +1,11 @@
+{
+    "showTutorialAtBeginning": true,
+    "enableAudioDialog": false,
+    "showResultScreen": true,
+    "defaultSpeed": 2,
+    "revealAnimPlayRate": 0.5,
+    "fourSpeedAllreveal": false,
+    "paytableShow_OddsPerTier":false,
+    "paytable_AdditionalText":"",
+    "paytable_Links":""
+}

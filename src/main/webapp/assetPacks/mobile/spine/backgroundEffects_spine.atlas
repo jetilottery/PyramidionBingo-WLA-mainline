@@ -1,0 +1,321 @@
+
+backgroundEffects_spine.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+backgroundEffects-assets/basegameBG_New
+  rotate: true
+  xy: 2, 446
+  size: 576, 324
+  orig: 576, 324
+  offset: 0, 0
+  index: -1
+backgroundEffects-assets/basegameBG_Portrait
+  rotate: false
+  xy: 718, 531
+  size: 324, 491
+  orig: 324, 491
+  offset: 0, 0
+  index: -1
+backgroundEffects-assets/foregroundPyramidSun_New
+  rotate: true
+  xy: 328, 34
+  size: 410, 171
+  orig: 576, 324
+  offset: 97, 5
+  index: -1
+backgroundEffects-assets/foregroundPyramidSun_Portrait
+  rotate: true
+  xy: 1035, 205
+  size: 324, 256
+  orig: 324, 491
+  offset: 0, 0
+  index: -1
+backgroundEffects-assets/foregroundPyramidSun_land_New
+  rotate: true
+  xy: 654, 446
+  size: 576, 62
+  orig: 576, 324
+  offset: 0, 0
+  index: -1
+backgroundEffects-assets/foregroundPyramid_lightEffect
+  rotate: false
+  xy: 328, 2
+  size: 58, 30
+  orig: 58, 30
+  offset: 0, 0
+  index: -1
+backgroundEffects-assets/lightningFlashAlpha/lightningFlash_112
+  rotate: true
+  xy: 1216, 3
+  size: 200, 112
+  orig: 200, 112
+  offset: 0, 0
+  index: -1
+backgroundEffects-assets/lightningFlashAlpha/lightningFlash_118
+  rotate: true
+  xy: 1044, 822
+  size: 200, 112
+  orig: 200, 112
+  offset: 0, 0
+  index: -1
+backgroundEffects-assets/lightningFlashAlpha/lightningFlash_42
+  rotate: true
+  xy: 1102, 3
+  size: 200, 112
+  orig: 200, 112
+  offset: 0, 0
+  index: -1
+backgroundEffects-assets/lightningWater/pyramidian_sky_modifierWater (00026)
+  rotate: true
+  xy: 1044, 620
+  size: 200, 112
+  orig: 200, 112
+  offset: 0, 0
+  index: -1
+backgroundEffects-assets/lightningWater/pyramidian_sky_modifierWater (00089)
+  rotate: true
+  xy: 1044, 620
+  size: 200, 112
+  orig: 200, 112
+  offset: 0, 0
+  index: -1
+backgroundEffects-assets/lightningWater/pyramidian_sky_modifierWater (00083)
+  rotate: true
+  xy: 1158, 822
+  size: 200, 112
+  orig: 200, 112
+  offset: 0, 0
+  index: -1
+backgroundEffects-assets/modifierTipLightning/modifierTipLightning_61
+  rotate: true
+  xy: 886, 3
+  size: 148, 106
+  orig: 148, 106
+  offset: 0, 0
+  index: -1
+backgroundEffects-assets/modifierTipLightning/modifierTipLightning_62
+  rotate: true
+  xy: 994, 3
+  size: 148, 106
+  orig: 148, 106
+  offset: 0, 0
+  index: -1
+backgroundEffects-assets/modifierTipLightning/modifierTipLightning_64
+  rotate: true
+  xy: 1158, 672
+  size: 148, 106
+  orig: 148, 106
+  offset: 0, 0
+  index: -1
+backgroundEffects-assets/modifierTipLightning/modifierTipLightning_65
+  rotate: false
+  xy: 1158, 564
+  size: 148, 106
+  orig: 148, 106
+  offset: 0, 0
+  index: -1
+backgroundEffects-assets/modifierTipLightning/modifierTipLightning_66
+  rotate: true
+  xy: 1266, 672
+  size: 148, 106
+  orig: 148, 106
+  offset: 0, 0
+  index: -1
+backgroundEffects-assets/modifierTipLightning/modifierTipLightning_67
+  rotate: true
+  xy: 1272, 874
+  size: 148, 106
+  orig: 148, 106
+  offset: 0, 0
+  index: -1
+backgroundEffects-assets/modifierTipLightning/modifierTipLightning_68
+  rotate: true
+  xy: 1293, 414
+  size: 148, 106
+  orig: 148, 106
+  offset: 0, 0
+  index: -1
+backgroundEffects-assets/modifierTipLightning/modifierTipLightning_69
+  rotate: false
+  xy: 1308, 564
+  size: 148, 106
+  orig: 148, 106
+  offset: 0, 0
+  index: -1
+backgroundEffects-assets/modifierTipLightning/modifierTipLightning_70
+  rotate: true
+  xy: 1374, 724
+  size: 148, 106
+  orig: 148, 106
+  offset: 0, 0
+  index: -1
+backgroundEffects-assets/modifierTipLightning/modifierTipLightning_71
+  rotate: true
+  xy: 1380, 874
+  size: 148, 106
+  orig: 148, 106
+  offset: 0, 0
+  index: -1
+backgroundEffects-assets/modifierTipLightning/modifierTipLightning_72
+  rotate: true
+  xy: 1293, 264
+  size: 148, 106
+  orig: 148, 106
+  offset: 0, 0
+  index: -1
+backgroundEffects-assets/modifierTipLightning/modifierTipLightning_73
+  rotate: true
+  xy: 1330, 114
+  size: 148, 106
+  orig: 148, 106
+  offset: 0, 0
+  index: -1
+backgroundEffects-assets/modifierTipLightning/modifierTipLightning_74
+  rotate: false
+  xy: 1330, 6
+  size: 148, 106
+  orig: 148, 106
+  offset: 0, 0
+  index: -1
+backgroundEffects-assets/modifierTipLightning/modifierTipLightning_75
+  rotate: true
+  xy: 1401, 414
+  size: 148, 106
+  orig: 148, 106
+  offset: 0, 0
+  index: -1
+backgroundEffects-assets/modifierTipLightning/modifierTipLightning_76
+  rotate: true
+  xy: 1401, 264
+  size: 148, 106
+  orig: 148, 106
+  offset: 0, 0
+  index: -1
+backgroundEffects-assets/modifierTipLightning/modifierTipLightning_77
+  rotate: true
+  xy: 1438, 114
+  size: 148, 106
+  orig: 148, 106
+  offset: 0, 0
+  index: -1
+backgroundEffects-assets/modifierTipLightning/modifierTipLightning_78
+  rotate: false
+  xy: 1480, 6
+  size: 148, 106
+  orig: 148, 106
+  offset: 0, 0
+  index: -1
+backgroundEffects-assets/modifierTipLightning/modifierTipLightning_79
+  rotate: true
+  xy: 1458, 574
+  size: 148, 106
+  orig: 148, 106
+  offset: 0, 0
+  index: -1
+backgroundEffects-assets/modifierTipLightning/modifierTipLightning_80
+  rotate: true
+  xy: 1482, 724
+  size: 148, 106
+  orig: 148, 106
+  offset: 0, 0
+  index: -1
+backgroundEffects-assets/modifierTipLightning/modifierTipLightning_81
+  rotate: true
+  xy: 1488, 874
+  size: 148, 106
+  orig: 148, 106
+  offset: 0, 0
+  index: -1
+backgroundEffects-assets/modifierTipLightning/modifierTipLightning_82
+  rotate: true
+  xy: 1509, 424
+  size: 148, 106
+  orig: 148, 106
+  offset: 0, 0
+  index: -1
+backgroundEffects-assets/modifierTipLightning/modifierTipLightning_83
+  rotate: true
+  xy: 1566, 574
+  size: 148, 106
+  orig: 148, 106
+  offset: 0, 0
+  index: -1
+backgroundEffects-assets/modifierTipLightning/modifierTipLightning_84
+  rotate: true
+  xy: 1590, 724
+  size: 148, 106
+  orig: 148, 106
+  offset: 0, 0
+  index: -1
+backgroundEffects-assets/modifierTipLightning/modifierTipLightning_85
+  rotate: true
+  xy: 1596, 874
+  size: 148, 106
+  orig: 148, 106
+  offset: 0, 0
+  index: -1
+backgroundEffects-assets/modifierTipLightning/modifierTipLightning_86
+  rotate: true
+  xy: 1509, 274
+  size: 148, 106
+  orig: 148, 106
+  offset: 0, 0
+  index: -1
+backgroundEffects-assets/modifierTipLightning/modifierTipLightning_87
+  rotate: true
+  xy: 1546, 124
+  size: 148, 106
+  orig: 148, 106
+  offset: 0, 0
+  index: -1
+backgroundEffects-assets/modifierTipLightning/modifierTipLightning_88
+  rotate: false
+  xy: 1630, 16
+  size: 148, 106
+  orig: 148, 106
+  offset: 0, 0
+  index: -1
+backgroundEffects-assets/modifierTipLightning/modifierTipLightning_89
+  rotate: false
+  xy: 1780, 916
+  size: 148, 106
+  orig: 148, 106
+  offset: 0, 0
+  index: -1
+backgroundEffects-assets/modifierTriggerBG
+  rotate: true
+  xy: 501, 68
+  size: 376, 212
+  orig: 376, 212
+  offset: 0, 0
+  index: -1
+backgroundEffects-assets/modifierTriggerBG_02
+  rotate: true
+  xy: 886, 153
+  size: 376, 147
+  orig: 376, 212
+  offset: 0, 65
+  index: -1
+backgroundEffects-assets/modifierTriggerBG_03
+  rotate: true
+  xy: 715, 68
+  size: 376, 169
+  orig: 376, 212
+  offset: 0, 43
+  index: -1
+backgroundEffects-assets/pyramidian_sky_modifierWater
+  rotate: true
+  xy: 328, 446
+  size: 576, 324
+  orig: 576, 324
+  offset: 0, 0
+  index: -1
+backgroundEffects-assets/pyramidian_sky_modifierWater_Portrait
+  rotate: false
+  xy: 2, 12
+  size: 324, 432
+  orig: 324, 491
+  offset: 0, 59
+  index: -1

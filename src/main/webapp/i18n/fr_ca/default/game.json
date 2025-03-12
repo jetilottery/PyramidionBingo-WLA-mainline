@@ -1,0 +1,88 @@
+{
+    "version": "10-22-2019-10:30am-SM-defaut_01",
+    "audioLoader": {
+        "yes": "Oui",
+        "no": "Non",
+        "confirm": "Activer le son?"
+    },
+    "Paytable": {
+        "RTPvalue": "est de {@minRTP} %",
+        "RTPrange": "varie de {@minRTP} % à {@maxRTP} %",
+        "paybackTitle": "Taux de retour théorique",
+        "paybackBody": "Pour ce jeu, le taux de retour théorique moyen à long terme {RTP}."
+    },
+    "title": "PyramidionBingo",
+    "MenuCommand": {
+        "WLA": {
+            "howToPlay": "Aide",
+            "payTable": "Table de paiement",
+            "price": "Prix",
+            "stake": "Mise",
+            "balance": "Solde",
+            "button_autoPlay": "TIRER"
+        },
+        "Commercial": {
+            "howToPlay": "Aide",
+            "payTable": "Table de paiement",
+            "price": "Prix",
+            "stake": "Mise",
+            "balance": "Solde",
+            "button_autoPlay": "DRAW"
+        },
+        "audio": {
+            "on": "Activé",
+            "off": "Désactivé",
+            "sound": "Son"
+        }
+    },
+    "Error": {
+        "error29000": "Erreur : 29000\n\nUne erreur interne est survenue.\nQUITTEZ le jeu et relancez-le.",
+        "lostConnection": "Connexion perdue."
+    },
+    "Game": {
+        "demo": "ESSAYER ",
+        "button_buy": "ACHETER",
+        "button_try": "ESSAYER",
+        "button_move2moneyGame": "MODE ARGENT RÉEL",
+        "button_playAgain": "JOUER DE NOUVEAU",
+        "button_MTMPlayAgain": "ESSAYER DE NOUVEAU",
+        "button_prizes": "LOTS",
+        "button_continue": "CONTINUER",
+        "button_shuffle": "MÉLANGER",
+        "button_speed": "VITESSE",
+        "button_draw": "TIRAGE",
+        "meterDrawsText": "TIRAGES",
+        "meterDrawsNum": "70",
+        "wager": "COÛT DU BILLET",
+        "meter_wager": "COÛT DU BILLET",            
+        "balance": "SOLDE",
+        "wins": "GAIN",
+        "wins_demo": "GAIN FICTIF",
+        "message_nonWin": "MEILLEURE CHANCE\nLA PROCHAINE FOIS",
+        "message_buyWin": "FÉLICITATIONS!\nVOUS AVEZ GAGNÉ",
+        "message_tryWin": "MERCI D’AVOIR JOUÉ!\nVOUS AURIEZ PU GAGNER",
+        "message_anonymousTryWin": "MERCI D’AVOIR JOUÉ!\nVOUS AURIEZ PU GAGNER",
+        "message_close": "OK",
+        "simple_buywin": "GAIN TOTAL",
+        "simple_trywin": "GAIN TOTAL FICTIF",
+        "simple_anonymousTrywin": "GAIN TOTAL FICTIF",
+        "button_exit": "QUITTER",
+        "session_timeout_warning_exit_button": "QUITTER",
+        "error_button_exit": "QUITTER",
+        "warning_button_continue": "CONTINUER",
+        "warning_button_exitGame": "QUITTER",
+        "warning_title": "AVERTISSEMENT",
+        "error_title": "ERREUR",
+        "win_up_to": "GAGNEZ JUSQU’À",
+        "win_up_to_mark": "!",
+        "tutorial_title": "COMMENT JOUER",
+        "tutorial_00_landscape": "Appuyez sur MÉLANGER pour mélanger les numéros et les valeurs des lots.\nAppuyez sur LOTS pour voir la valeur des lots.\nAppuyez sur CONTINUER pour retourner à la pyramide des numéros.\nAppuyez sur TIRER pour tirer 70 numéros.\nComplétez un bloc de couleur pour gagner le lot qui y est associé.",
+        "tutorial_00_portrait": "Appuyez sur MÉLANGER pour mélanger les numéros et les valeurs des lots.\nAppuyez sur LOTS pour voir la valeur des lots.\nAppuyez sur CONTINUER pour retourner à la pyramide des numéros.\nAppuyez sur TIRER pour tirer 70 numéros\nComplétez un bloc de couleur pour gagner le lot qui y est associé.",
+        "meter_division": " | ",
+        "buttonClose": "X",
+        "prizeLevel": "Niveau du lot",
+        "prizeValue": "Valeur du lot",
+        "paytableWager": "Coût du billet : ",
+        "prizeDescription": "Description"
+    }
+}

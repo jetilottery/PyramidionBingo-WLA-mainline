@@ -1,0 +1,41 @@
+
+skeleton.png
+size: 1024,128
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ButtonMeter
+  rotate: false
+  xy: 2, 16
+  size: 290, 86
+  orig: 290, 86
+  offset: 0, 0
+  index: -1
+buttonGlow
+  rotate: false
+  xy: 294, 16
+  size: 290, 86
+  orig: 290, 86
+  offset: 0, 0
+  index: -1
+glow
+  rotate: false
+  xy: 586, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+goldR1
+  rotate: false
+  xy: 688, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+goldR1_0_0001
+  rotate: false
+  xy: 790, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1

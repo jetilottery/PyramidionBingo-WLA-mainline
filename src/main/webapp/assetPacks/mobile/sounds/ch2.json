@@ -1,0 +1,33 @@
+{
+  "urls": [
+    "ch2.mp3",
+    "ch2.ogg",
+    "ch2.m4a"
+  ],
+  "sprite": {
+    "NumberRevealFast_1": [
+      0,
+      888.5260770975057
+    ],
+    "NumberRevealFast_2": [
+      1050,
+      1047.2562358276648
+    ],
+    "NumberRevealFast_3": [
+      3100.0000000000005,
+      1095.4648526077096
+    ],
+    "NumberRevealSlow_1": [
+      5150,
+      1201.0884353741496
+    ],
+    "NumberRevealSlow_2": [
+      7200,
+      1297.256235827665
+    ],
+    "NumberRevealSlow_3": [
+      9250,
+      1372.539682539683
+    ]
+  }
+}

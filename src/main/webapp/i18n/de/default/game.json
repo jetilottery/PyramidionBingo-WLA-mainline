@@ -1,0 +1,88 @@
+﻿{
+    "version": "10-22-2019-10:30am-SM-defaut_01",
+    "audioLoader": {
+        "yes": "Ja",
+        "no": "Nein",
+        "confirm": "Benötigen Sie Sound?"
+    },
+    "Paytable": {
+        "RTPvalue": "{@minRTP} %",
+        "RTPrange": "{@minRTP} % bis {@maxRTP} %",
+        "paybackTitle": "Erwartete Rückzahlung",
+        "paybackBody": "Für dieses Spiel beträgt die langfristig erwartete Rückzahlung {RTP}."
+    },
+    "title": "Pyramidion-Bingo",
+    "MenuCommand": {
+        "WLA": {
+            "howToPlay": "Hilfe",
+            "payTable": "Preis-Tabelle",
+            "price": "Preis",
+            "stake": "Einsatz",
+            "balance": "Guthaben",
+            "button_autoPlay": "ZIEHEN"
+        },
+        "Commercial": {
+            "howToPlay": "Hilfe",
+            "payTable": "Gewinntabelle",
+            "price": "Preis",
+            "stake": "Einsatz",
+            "balance": "Guthaben",
+            "button_autoPlay": "ZIEHEN"
+        },
+        "audio": {
+            "on": "Ein",
+            "off": "Aus",
+            "sound": "Sound"
+        }
+    },
+    "Error": {
+        "error29000": "Fehler:29000\n\nEs ist ein interner Fehler aufgetreten.\nSpiel VERLASSEN und neu starten.",
+        "lostConnection": "Verbindung verloren!"
+    },
+    "Game": {
+        "demo": "AUSPROBIEREN ",
+        "button_buy": "KAUFEN",
+        "button_try": "AUSPROBIEREN",
+        "button_move2moneyGame": "ZU ECHTGELD WECHSELN",
+        "button_playAgain": "ERNEUT SPIELEN",
+        "button_MTMPlayAgain": "ERNEUT VERSUCHEN",
+        "button_prizes": "PREISE",
+        "button_continue": "FORTSETZEN",
+        "button_shuffle": "MISCHEN",
+        "button_speed": "TURBO",
+        "button_draw": "ZIEHEN",
+        "meterDrawsText": "ZIEHUNGEN",
+        "meterDrawsNum": "70",
+        "wager": "LOSPREIS",
+        "meter_wager": "LOSPREIS",            
+        "balance": "GUTHABEN",
+        "wins": "GEWINN",
+        "wins_demo": "DEMO-GEWINN",
+        "message_nonWin": "MEHR GLÜCK\nBEIM NÄCHSTEN MAL",
+        "message_buyWin": "GLÜCKWUNSCH!\nSIE GEWINNEN",
+        "message_tryWin": "DANKE FÜRS SPIELEN!\nSIE HÄTTEN GEWINNEN KÖNNEN",
+        "message_anonymousTryWin": "DANKE FÜRS SPIELEN!\nSIE HÄTTEN GEWINNEN KÖNNEN",
+        "message_close": "OKAY",
+        "simple_buywin": "GESAMTGEWINN",
+        "simple_trywin": "DEMO-GEWINN GESAMT",
+        "simple_anonymousTrywin": "DEMO-GEWINN GESAMT",
+        "button_exit": "BEENDEN",
+        "session_timeout_warning_exit_button": "BEENDEN",
+        "error_button_exit": "BEENDEN",
+        "warning_button_continue": "FORTSETZEN",
+        "warning_button_exitGame": "BEENDEN",
+        "warning_title": "WARNUNG",
+        "error_title": "FEHLER",
+        "win_up_to": "GEWINNEN SIE BIS ZU",
+        "win_up_to_mark": "!",
+        "tutorial_title": "SPIELANLEITUNG",
+        "tutorial_00_landscape": "Drücken Sie auf MISCHEN, um die Zahlen und die Preis-Werte zu mischen.\nDrücken Sie auf PREISE, um die Preis-Werte anzuzeigen.\nDrücken Sie auf FORTSETZEN, um zur Zahlenpyramide zurückzukehren.\nDrücken Sie auf ZIEHEN, um 70 Zahlen zu ziehen.\nVervollständigen Sie einen Farbblock, um den entsprechenden Preis-Wert zu gewinnen.",
+        "tutorial_00_portrait": "Drücken Sie auf MISCHEN, um die Zahlen und die Preis-Werte zu mischen.\nDrücken Sie auf PREISE, um die Preis-Werte anzuzeigen.\nDrücken Sie auf FORTSETZEN, um zur Zahlenpyramide zurückzukehren.\nDrücken Sie auf ZIEHEN, um 70 Zahlen zu ziehen.\nVervollständigen Sie einen Farbblock, um den entsprechenden Preis-Wert zu gewinnen.",
+        "meter_division": " | ",
+        "buttonClose": "X",
+        "prizeLevel": "Preis-Stufe",
+        "prizeValue": "Preis-Wert",
+        "paytableWager": "Lospreis: ",
+        "prizeDescription": "Beschreibung"
+    }
+}

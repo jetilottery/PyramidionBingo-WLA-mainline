@@ -1,0 +1,28 @@
+{"frames": {
+
+"pyramidion_L.png":
+{
+	"frame": {"x":813,"y":1,"w":1027,"h":429},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":242,"y":369,"w":1027,"h":429},
+	"sourceSize": {"w":1440,"h":810}
+},
+"pyramidion_P.png":
+{
+	"frame": {"x":1,"y":1,"w":810,"h":639},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":589,"w":810,"h":639},
+	"sourceSize": {"w":810,"h":1228}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "pyramidion_Sym.png",
+	"format": "RGBA8888",
+	"size": {"w":1841,"h":641},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:53c6b0132be525546bfa383b80120ffc:0df11c434f66a796423e7a8eabc93ce3:8cf9b7672f9264457b6ea8eafe14d63e$"
+}
+}

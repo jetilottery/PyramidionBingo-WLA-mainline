@@ -1,0 +1,44 @@
+{"frames": {
+
+"BetterLuckPlaqueL.png":
+{
+	"frame": {"x":939,"y":1336,"w":932,"h":644},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":1,"y":0,"w":932,"h":644},
+	"sourceSize": {"w":934,"h":644}
+},
+"CongratulatrionsPlaqueL.png":
+{
+	"frame": {"x":1,"y":1336,"w":936,"h":644},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":0,"w":936,"h":644},
+	"sourceSize": {"w":943,"h":644}
+},
+"TimeOutPlaqueL.png":
+{
+	"frame": {"x":1,"y":1,"w":1176,"h":704},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1176,"h":704},
+	"sourceSize": {"w":1176,"h":704}
+},
+"TutorialPlaqueL.png":
+{
+	"frame": {"x":1,"y":707,"w":1128,"h":627},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":12,"y":9,"w":1128,"h":627},
+	"sourceSize": {"w":1150,"h":644}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "MessagePlaqueL.png",
+	"format": "RGBA8888",
+	"size": {"w":1872,"h":1981},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:d4388e548cc191486d8176e55c1843fa:5fb04a0e392595492eab852ed68620c3:9b1f72d7d466942ec944aa9a04890b1b$"
+}
+}

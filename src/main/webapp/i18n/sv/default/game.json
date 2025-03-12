@@ -1,0 +1,88 @@
+﻿{
+    "version": "10-22-2019-10:30am-SM-defaut_01",
+    "audioLoader": {
+        "yes": "Ja",
+        "no": "Nej",
+        "confirm": "Vill du ha ljud?"
+    },
+    "Paytable": {
+        "RTPvalue": "är {@minRTP} %",
+        "RTPrange": "är från {@minRTP} % till {@maxRTP} %",
+        "paybackTitle": "Förväntad återbetalning",
+        "paybackBody": "I det här spelet är den långsiktiga, teoretiskt förväntade återbetalningen {RTP}."
+    },
+    "title": "PyramidionBingo",
+    "MenuCommand": {
+        "WLA": {
+            "howToPlay": "Hjälp",
+            "payTable": "Pristabell",
+            "price": "Pris",
+            "stake": "Insats",
+            "balance": "Saldo",
+            "button_autoPlay": "DRA KORT"
+        },
+        "Commercial": {
+            "howToPlay": "Hjälp",
+            "payTable": "Vinsttabell",
+            "price": "Pris",
+            "stake": "Insats",
+            "balance": "Saldo",
+            "button_autoPlay": "DRA KORT"
+        },
+        "audio": {
+            "on": "På",
+            "off": "Av",
+            "sound": "Ljud"
+        }
+    },
+    "Error": {
+        "error29000": "Fel:29000\n\nEtt internt fel har inträffat.\nLÄMNA och starta spelet igen.",
+        "lostConnection": "Anslutningen bröts!"
+    },
+    "Game": {
+        "demo": "PROVA ",
+        "button_buy": "KÖP",
+        "button_try": "PROVA",
+        "button_move2moneyGame": "GÅ TILL PENGAR",
+        "button_playAgain": "SPELA IGEN",
+        "button_MTMPlayAgain": "PROVA IGEN",
+        "button_prizes": "PRISER",
+        "button_continue": "FORTSÄTT",
+        "button_shuffle": "BLANDA",
+        "button_speed": "HASTIGHET",
+        "button_draw": "DRA KORT",
+        "meterDrawsText": "DRAGNINGAR",
+        "meterDrawsNum": "70",
+        "wager": "LOTTKOSTNAD",
+        "meter_wager": "LOTTKOSTNAD",            
+        "balance": "SALDO",
+        "wins": "VINST",
+        "wins_demo": "DEMOVINST",
+        "message_nonWin": "BÄTTRE LYCKA\nNÄSTA GÅNG",
+        "message_buyWin": "GRATTIS!\nDU VANN",
+        "message_tryWin": "TACK FÖR ATT DU SPELADE!\nDU KUNDE HA VUNNIT",
+        "message_anonymousTryWin": "TACK FÖR ATT DU SPELADE!\nDU KUNDE HA VUNNIT",
+        "message_close": "OK",
+        "simple_buywin": "TOTAL VINST",
+        "simple_trywin": "TOTAL DEMOVINST",
+        "simple_anonymousTrywin": "TOTAL DEMOVINST",
+        "button_exit": "LÄMNA",
+        "session_timeout_warning_exit_button": "LÄMNA",
+        "error_button_exit": "LÄMNA",
+        "warning_button_continue": "FORTSÄTT",
+        "warning_button_exitGame": "LÄMNA",
+        "warning_title": "VARNING",
+        "error_title": "FEL",
+        "win_up_to": "VINN UPP TILL",
+        "win_up_to_mark": "!",
+        "tutorial_title": "SÅ HÄR SPELAR DU",
+        "tutorial_00_landscape": "Tryck på BLANDA för att blanda numren och prisvärdena.\nTryck på PRISER för att se prisvärden.\nTryck på FORTSÄTT för att återvända till nummerpyramiden.\nTryck på DRA KORT för att dra 70 nummer.\nNär du fullbordar ett färgblock vinner du motsvarande prisvärde.",
+        "tutorial_00_portrait": "Tryck på BLANDA för att blanda numren och prisvärdena.\nTryck på PRISER för att se prisvärden.\nTryck på FORTSÄTT för att återvända till nummerpyramiden.\nTryck på DRA KORT för att dra 70 nummer.\nNär du fullbordar ett färgblock vinner du motsvarande prisvärde.",
+        "meter_division": " | ",
+        "buttonClose": "X",
+        "prizeLevel": "Prisnivå",
+        "prizeValue": "Prisvärde",
+        "paytableWager": "Lottkostnad: ",
+        "prizeDescription": "Beskrivning"
+    }
+}

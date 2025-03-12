@@ -1,0 +1,20 @@
+{"frames": {
+
+"landscapeBG_new.jpg":
+{
+	"frame": {"x":1,"y":1,"w":1440,"h":810},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":1440,"h":810},
+	"sourceSize": {"w":1440,"h":810}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "landscapeBG_new.png",
+	"format": "RGBA8888",
+	"size": {"w":1442,"h":812},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:64b9784a262d8960c71fffc0740036e2:7dc00c3700f0e1826a284c86c1d39cde:aaece686d6394f230d0c32e53a9903cc$"
+}
+}

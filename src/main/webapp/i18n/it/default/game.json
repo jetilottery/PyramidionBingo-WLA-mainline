@@ -1,0 +1,88 @@
+﻿{
+    "version": "10-22-2019-10:30am-SM-defaut_01",
+    "audioLoader": {
+        "yes": "Sì",
+        "no": "No",
+        "confirm": "Vuoi attivare l'audio?"
+    },
+    "Paytable": {
+        "RTPvalue": "è pari a {@minRTP}%",
+        "RTPrange": "è compreso tra {@minRTP}% e {@maxRTP}%",
+        "paybackTitle": "Ritorno previsto",
+        "paybackBody": "Il ritorno teorico a lungo termine previsto per questo gioco {RTP}."
+    },
+    "title": "PyramidionBingo",
+    "MenuCommand": {
+        "WLA": {
+            "howToPlay": "Aiuto",
+            "payTable": "Tabella dei premi",
+            "price": "Prezzo",
+            "stake": "Puntata",
+            "balance": "Saldo",
+            "button_autoPlay": "ESTRAI"
+        },
+        "Commercial": {
+            "howToPlay": "Aiuto",
+            "payTable": "Tabella dei pagamenti",
+            "price": "Prezzo",
+            "stake": "Puntata",
+            "balance": "Saldo",
+            "button_autoPlay": "ESTRAI"
+        },
+        "audio": {
+            "on": "On",
+            "off": "Off",
+            "sound": "Audio"
+        }
+    },
+    "Error": {
+        "error29000": "Errore: 29000\n\nSi è verificato un errore interno.\nESCI e riavvia il gioco.",
+        "lostConnection": "Connessione persa!"
+    },
+    "Game": {
+        "demo": "PROVA ",
+        "button_buy": "ACQUISTA",
+        "button_try": "PROVA",
+        "button_move2moneyGame": "GIOCA CON DENARO REALE",
+        "button_playAgain": "GIOCA ANCORA",
+        "button_MTMPlayAgain": "RIPROVA",
+        "button_prizes": "PREMI",
+        "button_continue": "CONTINUA",
+        "button_shuffle": "MESCOLA",
+        "button_speed": "VELOCITÀ",
+        "button_draw": "ESTRAI",
+        "meterDrawsText": "ESTRAZIONI",
+        "meterDrawsNum": "70",
+        "wager": "PREZZO BIGLIETTO",
+        "meter_wager": "PREZZO BIGLIETTO",            
+        "balance": "SALDO",
+        "wins": "VINCITA",
+        "wins_demo": "VINCITA DEMO",
+        "message_nonWin": "SARAI PIÙ FORTUNATO\nLA PROSSIMA VOLTA",
+        "message_buyWin": "CONGRATULAZIONI!\nHAI VINTO",
+        "message_tryWin": "TI RINGRAZIAMO PER AVER GIOCATO CON NOI!\nAVRESTI POTUTO VINCERE",
+        "message_anonymousTryWin": "TI RINGRAZIAMO PER AVER GIOCATO CON NOI!\nAVRESTI POTUTO VINCERE",
+        "message_close": "OK",
+        "simple_buywin": "VINCITA TOTALE",
+        "simple_trywin": "VINCITA DEMO TOTALE",
+        "simple_anonymousTrywin": "VINCITA DEMO TOTALE",
+        "button_exit": "ESCI",
+        "session_timeout_warning_exit_button": "ESCI",
+        "error_button_exit": "ESCI",
+        "warning_button_continue": "CONTINUA",
+        "warning_button_exitGame": "ESCI",
+        "warning_title": "ATTENZIONE",
+        "error_title": "ERRORE",
+        "win_up_to": "VINCI FINO A",
+        "win_up_to_mark": "!",
+        "tutorial_title": "COME SI GIOCA",
+        "tutorial_00_landscape": "Premi MESCOLA per mescolare i numeri e i valori dei premi.\nSeleziona PREMI per visualizzare i valori dei premi.\nPremi CONTINUA per tornare alla piramide dei numeri.\nPremi ESTRAI per estrarre 70 numeri.\nCompleta il blocco di un colore per vincere il relativo valore del premio.",
+        "tutorial_00_portrait": "Premi MESCOLA per mescolare i numeri e i valori dei premi.\nSeleziona PREMI per visualizzare i valori dei premi.\nPremi CONTINUA per tornare alla piramide dei numeri.\nPremi ESTRAI per estrarre 70 numeri.\nCompleta il blocco di un colore per vincere il relativo valore del premio.",
+        "meter_division": " | ",
+        "buttonClose": "X",
+        "prizeLevel": "Livello del premio",
+        "prizeValue": "Valore del premio",
+        "paytableWager": "Prezzo biglietto: ",
+        "prizeDescription": "Descrizione"
+    }
+}

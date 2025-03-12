@@ -1,0 +1,92 @@
+{"frames": {
+
+"stoneFlash_0001.png":
+{
+	"frame": {"x":1,"y":1,"w":154,"h":488},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":154,"h":488},
+	"sourceSize": {"w":154,"h":488}
+},
+"stoneFlash_0002.png":
+{
+	"frame": {"x":157,"y":1,"w":154,"h":488},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":154,"h":488},
+	"sourceSize": {"w":154,"h":488}
+},
+"stoneFlash_0003.png":
+{
+	"frame": {"x":313,"y":1,"w":154,"h":488},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":154,"h":488},
+	"sourceSize": {"w":154,"h":488}
+},
+"stoneFlash_0004.png":
+{
+	"frame": {"x":469,"y":1,"w":154,"h":488},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":154,"h":488},
+	"sourceSize": {"w":154,"h":488}
+},
+"stoneFlash_0005.png":
+{
+	"frame": {"x":625,"y":1,"w":154,"h":488},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":154,"h":488},
+	"sourceSize": {"w":154,"h":488}
+},
+"stoneFlash_0006.png":
+{
+	"frame": {"x":781,"y":1,"w":154,"h":488},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":154,"h":488},
+	"sourceSize": {"w":154,"h":488}
+},
+"stoneFlash_0007.png":
+{
+	"frame": {"x":937,"y":1,"w":154,"h":488},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":154,"h":488},
+	"sourceSize": {"w":154,"h":488}
+},
+"stoneFlash_0008.png":
+{
+	"frame": {"x":1093,"y":1,"w":154,"h":488},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":154,"h":488},
+	"sourceSize": {"w":154,"h":488}
+},
+"stoneFlash_0009.png":
+{
+	"frame": {"x":1249,"y":1,"w":154,"h":488},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":154,"h":488},
+	"sourceSize": {"w":154,"h":488}
+},
+"stoneFlash_0010.png":
+{
+	"frame": {"x":1405,"y":1,"w":154,"h":488},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":154,"h":488},
+	"sourceSize": {"w":154,"h":488}
+}},
+"meta": {
+	"app": "https://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "stoneFlash.png",
+	"format": "RGBA8888",
+	"size": {"w":1560,"h":490},
+	"scale": "1",
+	"smartupdate": "$TexturePacker:SmartUpdate:315b4019d20ec3884205ad656a90ef37:436a441729e3e128f2f8023ae7d31d23:cf328f6b43055c6da6aadfa2277a3290$"
+}
+}
